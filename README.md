@@ -1,0 +1,2 @@
+# C-user-mode-diagnostics-app-for-accessing-PCI-devices-possibly-via-a-KP-driver-using-WinDriver-s-API
+The pci_diag/ directory contains the C source code of a diagnostics    WinDriver PCI library, as well as user-mode console application (pci_diag)    and a kernel-mode Kernel PlugIn driver (kp_pci), which use the sample  library API. For a list of the files provided in this directory,    refer to the pci_diag/files.txt file.
